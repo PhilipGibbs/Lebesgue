@@ -11,9 +11,10 @@ Henri Lebesgue posed this problem in a letter to Pal in 1914.
 
 # Goals
 The ambitious goal of this project is to solve this problem. More relaistic minor goals are:
-  To find and prove an improved upper bound
-  To find an improved lower bound conditional on some assumptions about the form of the answer.
-  To find a bound that is likely to be the best bound
+
+- To find and prove an improved upper bound
+- To find an improved lower bound conditional on some assumptions about the form of the answer.
+- To find a bound that is likely to be the best bound
 
 # Variants
 Variants of the problem that are also of interest and which may be worked on here involve combinations of
