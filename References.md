@@ -12,3 +12,6 @@ A triangle circle and Pentagon are combined in an optimal configuration to set a
 
 ### Philip Gibbs, (2014) "A New Slant on Lebesgue's Universal Covering Problem", arXiv:1401.8217
 The results of computational searches led to the idea that Pal's cuts can be taken at a different slant angle leading to an improved upper bound.
+
+### J.C. Baez, K. Bagdasaryan, P. Gibbs, (2015) "The Lebesgue Universal Covering Problem", Journal of Computational Geometry 6(1), 288–299
+The slant method is used to set a new upper bound of 0.8441153. The goal here was to establish a new bound with a simple and clear argument rather than to set the best bound posible with the known techniques
