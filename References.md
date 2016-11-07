@@ -33,6 +33,9 @@ A proof that every shape of diameter one can be contained in a curve of constant
 ### M.D. Kovalev (1985), "A Minimal Lebesgue Covering Exists", Mathematical notes of the Academy of Sciences of the USSR, Volume 40, Issue 3 (1986) pp 736–739
 For the case of the convex cover it is shown that a minimal cover exists. See also Weiss-Kelly (1979)
 
+### K Bezdek, R Connelly "Covering curves by translates of a convex set" American Mathematical Monthly, 1989
+On the translation cover problem
+
 ### H.C. Hansen (1992), "Small Universal covers for sets of unit diameter", Geometriae Dedicata 42 (1992) 205-213
 The upper bound was reduced by 4.10^-11
 
