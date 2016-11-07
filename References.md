@@ -4,8 +4,11 @@ in chronolohical order
 ### Henri Lebesgue (1914), *Letter to Julius Pal*, described in (Pal 1920)
 In this letter Henri Pal proposed his universal covering problem
 
-### G.F.D. Duff, "A smaller universal cover for sets of unit diameter", C. R. Math. Acad. Sci. 2 (1980), 37–42
+### G.F.D. Duff (1980), "A smaller universal cover for sets of unit diameter", C. R. Math. Acad. Sci. 2 (1980), 37–42
 A smaller universal cover was found for the case where the cover is not required to be convex
+
+### M.D. Kovalev (1985), "A Minimal Lebesgue Covering Exists", Mathematical notes of the Academy of Sciences of the USSR, Volume 40, Issue 3 (1986) pp 736–739
+For the case of the convex cover it is shown that a minimal cover exists.
 
 ### H.C. Hansen (1992), "Small Universal covers for sets of unit diameter", Geometriae Dedicata 42 (1992) 205-213
 The upper bound was reduced by 4.10^-11
