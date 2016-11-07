@@ -1,14 +1,21 @@
 # References related to Lebesgue's Universal Covering Problem
 in chronolohical order
 
+### H.W.E. Jung J. "Über die kleinste Kugel die eine räumliche Figur einschliesst" Reine Agnew Math 123 (1901) 241-257
+A circle of radius 1/sqrt(3) is a universal cover of area 1.047
+
 ### Henri Lebesgue (1914), *Letter to Julius Pal*, described in (Pal 1920)
 In this letter Henri Pal proposed his universal covering problem
 
 ### J. Pál, (1920). "Über ein elementares Variationsproblem". Danske Mat.-Fys. Meddelelser III. 2.
 Pal reported the problem posed to him by Lebesgue and set the first upper bound with a cover of area 0.84529946
+He also set a lower bound using the combination of a circle and triangle at 0.8257
 
 ### R. Sprague, (1936). "Über ein elementares Variationsproblem". Matematiska Tidsskrift Ser. B: 96–99
-Sprague showed that a region of Pal's cover can be removed reducing the area to 0.844137708436
+Sprague showed that a region of Pal's cover can be removed reducing the area to 0.844137708436 (He did not compute the area)
+
+### H. Meschkowski H. Meschkowski, Ungelöste und unlösbare Probleme der Geometrie, Braunschweig 1960
+Computed the area of Sprague's cover and popularised the problem 
 
 ### H.C. Hansen, 'A small universal cover of figures of unit diameter', Geom. Dedicata 4 (1975), 165-172.
 
