@@ -4,6 +4,12 @@ in chronolohical order
 ### Henri Lebesgue (1914), *Letter to Julius Pal*, described in (Pal 1920)
 In this letter Henri Pal proposed his universal covering problem
 
+### J. Pál, (1920). "Über ein elementares Variationsproblem". Danske Mat.-Fys. Meddelelser III. 2.
+Pal reported the problem posed to him by Lebesgue and set the first upper bound with a cover of area 0.84529946
+
+### R. Sprague, (1936). "Über ein elementares Variationsproblem". Matematiska Tidsskrift Ser. B: 96–99
+Sprague showed that a region of Pal's cover can be removed reducing the area to 0.844137708436
+
 ### G.F.D. Duff (1980), "A smaller universal cover for sets of unit diameter", C. R. Math. Acad. Sci. 2 (1980), 37–42
 A smaller universal cover was found for the case where the cover is not required to be convex
 
