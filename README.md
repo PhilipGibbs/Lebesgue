@@ -57,5 +57,5 @@ Numerical Calculations suggest that any of the following statements may be true
 Any of these statements may be treated as a conjecture for which a proof can be attempted or an assumption on which a conditional proof can be based. If both these steps are achieved for a single statement then it is an intermediate step in a complete proof.
 
 # References
-see [References](../references.md)
+see [References](../../references.md)
 
