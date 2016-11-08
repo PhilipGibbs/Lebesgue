@@ -56,6 +56,18 @@ Numerical Calculations suggest that any of the following statements may be true
 
 Any of these statements may be treated as a conjecture for which a proof can be attempted or an assumption on which a conditional proof can be based. If both these steps are achieved for a single statement then it is an intermediate step in a complete proof.
 
+# Strategy
+
+The methods used in (Baez, Bagdasaryan, Gibbs 2015) can be extended to take into account a finer breakdown of possible cases where different reflections and rotations optimise the use of area. This was partly discussed already on [n-category cafe](https://golem.ph.utexas.edu/category/2015/02/computability_for_lebesgues_un.html) This would give a new universal cover and a new upper bound that might actually be the best possible.
+
+Proving a lower bound is much harder than an upper bound. It may be possible to prove a lower bound conditional on one of the above intermediate statements. E.g. if it is assumed that the optimal cover is contained in Pal's regular hexagon then there are only a finite number of ways each curve of constant width can be contained within. Therefore any set of such curves can be used to compute a conditional lower bound. It may be easier if it is further assumed that two corners can be removed for some slant angle. A specific collection of curves can be constructed to fit the conjectured minimal cover and then tested by computation to see if they provide the right lower bound or a smaller one.
+
+A complete solution of the problem would then require a proof that the assumed consition is correct. This is liekly to be very hard. There is a chance that it may be possible to prove that the optimal shape can be contained in a parallelogon with an inscribed circle of unit diameter. Each curve of constant width fits into such a shape in a finite number of ways so completing the proof may then reduce to a long calculation.
+
+A strategy that might work is based on the relationship between Bellman's lost in a forest problem and the Moser worm problem. What is the analogous problem related to Lebesgue's universal covering problem and is it soluable? If so, what does it tell us about the minimal cover?
+
+Lebesgue's Universal Covering Problem is not easy and realistically it is too ambitious to hope for a complete solution. It would be easier to tackle the related translation cover problem. There is already a conjecture for the minimal cover in this case. This is given by rotating a reuleaux triangle inside a unit square and taking the union consisting of the square minus the small regions in the four corners that are not touched. See the wikipedia article on [Curve of Constant Width](https://en.wikipedia.org/wiki/Curve_of_constant_width) for an animation. Can we show that the minimal solution is contained in a rhombus with an inscribed circle of unit diameter, and then that the minimum cover that fits in such a rhombus is the conjectured solution? The second step looks tractible. The first step is still hard but much easier than the Lebesgue case. Solving the case for the translation cover would itself be a monumental achievement. 
+
 # References
 see [References](References.md)
 
