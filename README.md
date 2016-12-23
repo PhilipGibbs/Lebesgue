@@ -68,6 +68,10 @@ A strategy that might work is based on the relationship between Bellman's lost i
 
 Lebesgue's Universal Covering Problem is not easy and realistically it is too ambitious to hope for a complete solution. It would be easier to tackle the related translation cover problem. There is already a conjecture for the minimal cover in this case. This is given by rotating a reuleaux triangle inside a unit square and taking the union consisting of the square minus the small regions in the four corners that are not touched. See the wikipedia article on [Curve of Constant Width](https://en.wikipedia.org/wiki/Curve_of_constant_width) for an animation. Can we show that the minimal solution is contained in a rhombus with an inscribed circle of unit diameter, and then that the minimum cover that fits in such a rhombus is the conjectured solution? The second step looks tractible. The first step is still hard but much easier than the Lebesgue case. Solving the case for the translation cover would itself be a monumental achievement. 
 
+# Progress
+
+[Cover](Cover.md) aims to defines the best possible cover
+
 # References
 see [References](References.md)
 
