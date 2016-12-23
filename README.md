@@ -70,7 +70,7 @@ Lebesgue's Universal Covering Problem is not easy and realistically it is too am
 
 # Progress
 
-[Cover](Cover.md) aims to defines the best possible cover
+- [Cover](Cover.md) aims to defines the best possible cover
 
 # References
 see [References](References.md)
