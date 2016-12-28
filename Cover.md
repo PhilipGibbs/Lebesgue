@@ -27,4 +27,7 @@ Consider the edge of the regular dodecahedron that would remove the triangle nea
 
 The straight line _TU_ can now be used to remove an extra region _TUJ_. This is shown highly zoomed in figure 5 which has been drawn with a slant angle of 2.0 degree for better clarity.
 
+#### Figure 5
+![Figure 5](figures/fig5.png)
+
 
