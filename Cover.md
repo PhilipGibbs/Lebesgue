@@ -4,7 +4,7 @@ It was shown (Baez, Bagdasaryan, Gibbs 2015) that a hexagon with two corners rem
 #### Figure 1
 ![Figure 1](figures/fig1.png)
 
-Draw an arc of radius 1 centred on _F_<sub>2</sub> touching the line segement _C_<sub>2</sub>_C_<sub>3</sub> at the point _K_ and intersecting the line segment _C_<sub>3</sub>_D_<sub>2</sub> at the point _G_ (see figure 2.) Remove the area _GKC_<sub>3</sub> bounded by the arc _GK_ and straight lines _GC_<sub>3</sub> and _KC_<sub>3</sub>
+Draw an arc of radius 1 centred on _F_<sub>3</sub> touching the line segement _C_<sub>3</sub>_C_<sub>2</sub> at the point _K_ and intersecting the line segment _C_<sub>2</sub>_D_<sub>3</sub> at the point _G_ (see figure 2.) Remove the area _GKC_<sub>2</sub> bounded by the arc _GK_ and straight lines _GC_<sub>2</sub> and _KC_<sub>2</sub>
 
 #### Figure 2
 ![Figure 2](figures/fig2.png)
