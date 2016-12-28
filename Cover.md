@@ -18,9 +18,12 @@ Draw an arc of radius 1 centred on _C_<sub>3</sub> touching the line segment _F_
 #### Figure 3
 ![Figure 3](figures/fig3.png)
 
-More area can be removed from near _E_<sub>2</sub>. The following construction is applicable for slant angles less than 10 degrees. Let _R_ be the intersection of the line segment _F_<sub>2</sub>_F_<sub>3</sub> with the centre line _F_<sub>1</sub>_C_<sub>1</sub>. For slant angles less than 10 degrees the distance from _R_ to _C_<sub>3</sub> is less than 1. An arc of radius 1 centred on _R_ will therefore intersect the line segement _C_<sub>3</sub>_B_<sub>2</sub> at a point _S_. An arc centred on _S_ intersects the arc _JI_ at a point _T_.
+More area can be removed from near _E_<sub>2</sub>. The following construction is applicable for slant angles less than 10 degrees. Let _R_ be the intersection of the line segment _F_<sub>2</sub>_F_<sub>3</sub> with the centre line _F_<sub>1</sub>_C_<sub>1</sub>. For slant angles less than 10 degrees the distance from _R_ to _C_<sub>3</sub> is less than 1. An arc of radius 1 centred on _R_ will therefore intersect the line segement _C_<sub>3</sub>_B_<sub>2</sub> at a point _S_. An arc centred on _S_ intersects the arc _JI_ at a point _T_.(see figure 4)
 
-Consider the edge of the regular dodecahedron that would remove the triangle near _E_ is the slant angle were zero. This line would cut the arc _HJ_ at a point _U_ (see figure 4) 
+#### Figure 4
+![Figure 4](figures/fig4.png)
+
+Consider the edge of the regular dodecahedron that would remove the triangle near _E_ is the slant angle were zero. This line would cut the arc _HJ_ at a point _U_  
 
 The straight line _TU_ can now be used to remove an extra region _TUJ_. This is shown highly zoomed in figure 5 which has been drawn with a slant angle of 2.0 degree for better clarity.
 
