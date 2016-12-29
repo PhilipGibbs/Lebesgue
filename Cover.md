@@ -36,5 +36,11 @@ The straight line _TU_ can now be used to remove an extra region _TUJ_. This is 
 ![Figure 5](figures/fig5.png)
 
 ### Removal of region _Ai_ near point _A_ 
+Draw an arc of radius 1 centred on _G_ touching the edge _A_<sub>1</sub>_F_<sub>1</sub> at _P_. Draw and arc of radius 1 centred on _E_<sub>3</sub> touching _B_<sub>1</sub>_A_<sub>1</sub> at _O_. Let _X_ be the point where the two arcs meet. The region _OXPA_<sub>1</sub> bounded by the two arcs and two straight edges can be removed.
+
+##### Figure 6
+![Figure 6](figures/fig6.png)
+
+
 
 
