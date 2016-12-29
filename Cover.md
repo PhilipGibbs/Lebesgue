@@ -3,7 +3,7 @@ The aim of this text is to define a universal cover which could be minimal, Bewa
 # Slanted Cover
 It was shown (Baez, Bagdasaryan, Gibbs 2015) that a hexagon with two corners removed (_C_ and _E_ in figure 1) by the edges of the hexagon rotated through 30 degrees plus some slant angle _σ_ is a universal cover. It is also conjectured (Gibbs 2014) that the universal cover of least area is contained within this form for some value of slant angle. The case of zero slant angle σ was explored by Pal, Sprague and Hansen but the new results suggest that a small non-zero angle is in fact optimal. 
 
-The sections below discribe five regions to remove from the slanted Pal cover in order to reduce it to what may be the optimal solution.
+The sections below discribe five small regions nmaed _Ci_ _Ei_ _Eii_ _Ai_ and _Aii_ to remove from the slanted Pal cover in order to reduce it to what may be the optimal solution.
 
 Diagrams are drawn with a slant angle of 7 degree unless otherwise stated. This is larger than the optimal slant angle around 1.5 degree.
 
