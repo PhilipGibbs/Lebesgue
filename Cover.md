@@ -41,6 +41,8 @@ Draw an arc of radius 1 centred on _G_ touching the edge _A_<sub>1</sub>_F_<sub>
 ##### Figure 6
 ![Figure 6](figures/fig6.png)
 
+### Removal of region _Aii_ near point _A_ 
+
 
 
 
