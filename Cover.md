@@ -42,8 +42,12 @@ Draw an arc of radius 1 centred on _G_ touching the edge _A_<sub>1</sub>_F_<sub>
 ![Figure 6](figures/fig6.png)
 
 ### Removal of region _Aii_ near point _A_ 
-The slant angle we are using is _σ_ but consider the triangle at _C_ for a slant angle _s_ in the range -_σ_ ≤ s ≤ _σ_. This will have a corner on the edge DC at a point _L_(_s_) so that e.g. _L_(_σ_) = _C_<sub>2</sub>. Define a point _N_(_t_) on the edge DE at a distance _t_ from the midpoint _M_ of that edge of the hexagon for _τ_ ≤ t ≤ _τ_ such that _M_(-_τ_) = _E_<sub>3</sub>. Two circular arcs of radius one will meet at a point _X_(_s_,_t_) near the top corner _A_ of the hexagon.
+The slant angle we are using is _σ_ but consider the triangle at _C_ for a slant angle _s_ in the range -_σ_ ≤ s ≤ _σ_. This will have a corner on the edge DC at a point _L_(_s_) so that e.g. _L_(_σ_) = _C_<sub>2</sub>. Define a point _N_(_t_) on the edge DE at a distance _t_ from the midpoint _M_ of that edge of the hexagon for _τ_ ≤ t ≤ _τ_ such that _N_(-_τ_) = _E_<sub>3</sub>. Two circular arcs of radius one centred on _L_(_s_) and _N_(_t_) will meet at a point _X_(_s_,_t_) near the top corner _A_ of the hexagon.
 
+We can draw a straight line from the point _X_(-_σ_, -_τ_) to the point _X_(0,0). For each point _X_(_s_,_t_) on this line segment there is an image point _X_(-_s_,-_t_). These points form a curve from _X_(0,0) to _X_(_σ_, _τ_) (see figure 7.)
+
+##### Figure 7
+![Figure 7](figures/fig7.png)
 
 
 
