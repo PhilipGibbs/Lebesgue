@@ -3,7 +3,18 @@ In this document that shape is proven to be a universal cover for all shapes of 
 This sets an upper limit on the area for the least universal cover.
 
 The first step is to show that every shape of diameter one can be contained within a curve of constant width one.
-This was proven in (Pál 1920) see also (Vrecica 1981)
+This was proven in (Pál 1920) see also (Vrecica 1981). This implies that it is sufficient to show that the defined
+shape contains any curve of constant width to prove that it therefore contains every shape of diameter one.
 
-The second step is to show that the regular hexagon with two corners removed at a slant angle is a universal cover (see cover: figure 1)
+The second step is to show that the regular hexagon with two corners removed at a slant angle is a universal cover (see figure 1)
 This was proven in (Baez, Bagdasaryan, Gibbs 2015)
+
+![Figure 1](figures/fig1.png)
+
+In the definition of the proposed cover five peices were removed from the slanted cover. It is sufficient to show 
+that any curve of constant width can be placed within the cover in such a way that it avoids these five areas. 
+For the first three areas named _Ci_, _Ei_ and _Ai_ it will be shown that any curve of constant width placed inside the 
+slanted cover cannot enter these areas. For the remaining two areas _Eii_ and _Aii_ it will then be shown that a position 
+for any such curve can be found using reflections and rotations that ensure the curve avoids both these areas. The proof
+will then be complete.
+
