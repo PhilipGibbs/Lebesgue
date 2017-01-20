@@ -33,3 +33,9 @@ A curve of constant width one placed inside the slanted cover cannot enter the i
 
 The argument for removal of region _Ei_ is similar except that there are two arcs involved. A curve of constant width placed inside the slant cover must touch the edge along line segment _C_<sub>2</sub>_B_<sub>1</sub>. Points inside _Ei_ which are outside the arc of radius one centred on _C_<sub>3</sub> are more than a distance one from this segment so the curve cannot intersect there. The curve must also cross or toch the line segment _B_<sub>3</sub>_B_<sub>2</sub> which excludes points beyond the arc of radius one centred on _B_<sub>3</sub>. The combination of these two exclusions confirms that the curve cannot entre the interior of region _Ei_.
 
+### Removal of Region _Ai_
+
+![Figure 6](figures/fig6.png)
+
+Again the argument for removal of region _Ai_ is similar. A curve of constant width placed insode the slanted cover will touch line segments _E_<sub>3</sub>_D_<sub>1</sub> and _D_<sub>1</sub>_G_ This means that it cannot enter the region _Ai_ since all points in that region are a distance greater than one from all points on at least one of these segments.
+
