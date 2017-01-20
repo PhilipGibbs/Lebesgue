@@ -11,7 +11,7 @@ shape contains any curve of constant width to prove that it therefore contains e
 The second step is to show that the regular hexagon with two corners removed at a slant angle is a universal cover (see figure 1)
 This was proven in (Baez, Bagdasaryan, Gibbs 2015)
 
-
+##### Figure 1
 ![Figure 1](figures/fig1.png)
 
 In the definition of the proposed cover five peices were removed from the slanted cover. It is sufficient to show 
@@ -23,18 +23,21 @@ will then be complete.
 
 ### Removal of Region _Ci_
 
+##### Figure 2
 ![Figure 2](figures/fig2.png)
 
 A curve of constant width one placed inside the slanted cover cannot enter the interior of region _Ci_. To see this observe that no point on the curve can outisde the line _C_<sub>2</sub>_C_<sub>3</sub> (see figure 2) Since it has constant width one this means that it must cross or touch the line segment _F_<sub>2</sub>_F_<sub>3</sub>. All points in the region _Ci_ are outside the arc of radius one centred on _F_<sub>3</sub> and the angle _F_<sub>2</sub>_F_<sub>3</sub>K is a right angle. Therefore all points in the interior of region _Ci_ are at a distance greater than one from all points on the segment _F_<sub>2</sub>_F_<sub>3</sub>. This proves the desired result.
 
 ### Removal of Region _Ei_
 
+##### Figure 3
 ![Figure 3](figures/fig3.png)
 
 The argument for removal of region _Ei_ is similar except that there are two arcs involved. A curve of constant width placed inside the slant cover must touch the edge along line segment _C_<sub>2</sub>_B_<sub>1</sub>. Points inside _Ei_ which are outside the arc of radius one centred on _C_<sub>3</sub> are more than a distance one from this segment so the curve cannot intersect there. The curve must also cross or toch the line segment _B_<sub>3</sub>_B_<sub>2</sub> which excludes points beyond the arc of radius one centred on _B_<sub>3</sub>. The combination of these two exclusions confirms that the curve cannot entre the interior of region _Ei_.
 
 ### Removal of Region _Ai_
 
+##### Figure 6
 ![Figure 6](figures/fig6.png)
 
 Again the argument for removal of region _Ai_ is similar. A curve of constant width placed insode the slanted cover will touch line segments _E_<sub>3</sub>_D_<sub>1</sub> and _D_<sub>1</sub>_G_ This means that it cannot enter the region _Ai_ since all points in that region are a distance greater than one from all points on at least one of these segments.
@@ -43,6 +46,7 @@ Again the argument for removal of region _Ai_ is similar. A curve of constant wi
 
 To show that the remaining two regions _Eii_ amd _Aii_ can be removed a more complex case-by-case argument is needed. The freedom to reflect shapes will be used for the first time.
 
+##### Figure 8
 ![Figure 8](figures/fig8.png)
 
 Triangular areas _A_, _B_, _C_, _D_, _E_, _F_ near the corners of the hexagon are defined at a slope angle _σ_ as before. In addition areas _A'_, _B'_, _C'_, _D'_, _E'_, _F'_ are defined for a negative slope angle _-σ_ (see figure 8) The slanted area is defined by removing triangles _C_ and _E_ from the hexagon. We know that any curve of constant width placed inside this slanted region cannot enter the interior of _Ci_, _Ei_ or _Ai_. It is also the case that it cannot enter the interior of both _A_ and _D_, or both _A'_ and _D'_, or both _E'_ and _B'_, or both _C'_ and _F'_. So each placement of the curve will fall into one of 16 cases according to these 4 binary choices (Note that it may fall into more than one case if it touches two opposing areas without entering the interior of either but these do not need to be considered as extra cases)
