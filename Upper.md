@@ -50,3 +50,7 @@ To show that the remaining two regions _Eii_ amd _Aii_ can be removed a more com
 ![Figure 8](figures/fig8.png)
 
 Triangular areas _A_, _B_, _C_, _D_, _E_, _F_ near the corners of the hexagon are defined at a slope angle _σ_ as before. In addition areas _A'_, _B'_, _C'_, _D'_, _E'_, _F'_ are defined for a negative slope angle _-σ_ (see figure 8) The slanted area is defined by removing triangles _C_ and _E_ from the hexagon. We know that any curve of constant width placed inside this slanted region cannot enter the interior of _Ci_, _Ei_ or _Ai_. It is also the case that it cannot enter the interior of both _A_ and _D_, or both _A'_ and _D'_, or both _E'_ and _B'_, or both _C'_ and _F'_. So each placement of the curve will fall into one of 16 cases according to these 4 binary choices (Note that it may fall into more than one case if it touches two opposing areas without entering the interior of either but these do not need to be considered as extra cases)
+
+The sixteen cases will be labelled according to the four areas that the curve enters the interior of e.g. _AD'B'F'_ means the case where it must enter the triangles _A_, _D'_, _B'_, _F'_
+
+First we will deal with simple cases where no reflections are required. The region _Aii_ is entirely within the area _A'_ and the region _Eii_ is entirely wihtin the area _E'_. Therefore any cases where the curve does not pass within the interior of these areas is covered. This is true for four of the 16 cases where it enters _D'_ and _B'_, i.e. cases _AD'B'F'_, _DD'B'F'_, _AD'B'C'_ and _DD'B'C'_ 
