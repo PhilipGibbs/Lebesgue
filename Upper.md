@@ -39,3 +39,10 @@ The argument for removal of region _Ei_ is similar except that there are two arc
 
 Again the argument for removal of region _Ai_ is similar. A curve of constant width placed insode the slanted cover will touch line segments _E_<sub>3</sub>_D_<sub>1</sub> and _D_<sub>1</sub>_G_ This means that it cannot enter the region _Ai_ since all points in that region are a distance greater than one from all points on at least one of these segments.
 
+### Removal of Regions _Eii_ and _Aii_
+
+To show that the remaining two regions _Eii_ amd _Aii_ can be removed a more complex case-by-case argument is needed. The freedom to reflect shapes will be used for the first time.
+
+![Figure 8](figures/fig8.png)
+
+Triangular areas _A_, _B_, _C_, _D_, _E_, _F_ near the corners of the hexagon are defined at a slope angle _σ_ as before. In addition areas _A'_, _B'_, _C'_, _D'_, _E'_, _F'_ are defined for a negative slope angle _-σ_ (see figure 8) The slanted area is defined by removing triangles _C_ and _E_ from the hexagon. We know that any curve of constant width placed inside this slanted region cannot enter the interior of _Ci_, _Ei_ or _Ai_. It is also the case that it cannot enter the interior of both _A_ and _D_, or both _A'_ and _D'_, or both _E'_ and _B'_, or both _C'_ and _F'_. So each placement of the curve will fall into one of 16 cases according to these 4 binary choices (Note that it may fall into more than one case if it touches two opposing areas without entering the interior of either but these do not need to be considered as extra cases)
