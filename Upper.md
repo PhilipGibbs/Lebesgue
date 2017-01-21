@@ -63,3 +63,8 @@ First we will deal with simple cases where no reflections are required. The regi
 
 _Aii_ is also contained within _A_ allowing two more cases to be eliminated  _F'B'DA'_, _C'B'DA'_
 
+##### Figure 11
+![Figure 11](figures/fig11.png)
+
+If the curve does not enter _C'_ then it cannot enter the region out side the arc centred on _L_ near _A_. Again this includes _Aii_ therefore the case _F'B'DD'_ is also eliminated.
+
