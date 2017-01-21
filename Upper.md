@@ -58,7 +58,7 @@ The sixteen cases will be labelled according to the four areas that the curve en
 
 ### Cases where curve cannot enter the two regions
 
-First we will deal with simple cases where no reflections are required. The region _Aii_ is entirely within the intersection of areas _A'_ and _A_ and the region _Eii_ is entirely wihtin the area _E'_. Therefore any cases where the curve does not pass within the interior of both these areas is covered. This is true for 6 of the 16 cases where it enters _D'_ or _D_ and _B'_, i.e. cases _F'B'AD'_, _F'B'DD'_, _C'B'AD'_, _C'B'DD'_, _F'B'DA'_ and _C'B'DA'_. 
+First we will deal with simple cases where no reflections are required. The region _Aii_ is entirely within the area _A_. If curve does not enter the _A'_ then it enters _D'_. If an arc is drawn from the corner of this region an extra area area can be added to _A'_ in the same way that the area _Ci_ was added to _C_. When _A'_ is extended in this was _Aii_ will always be insde that area. The region _Eii_ is entirely wihtin the area _E'_. Therefore any cases where the curve does not pass within the interior of _E'_ and not within the area of either _A_ or _A'_ then the curve is covered for this case. This is true for 6 of the 16 cases where it enters _D'_ or _D_ and _B'_, i.e. cases _F'B'AD'_, _F'B'DD'_, _C'B'AD'_, _C'B'DD'_, _F'B'DA'_ and _C'B'DA'_. 
 
 ##### Figure 11
 ![Figure 11](figures/fig11.png)
