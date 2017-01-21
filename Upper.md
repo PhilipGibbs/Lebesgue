@@ -57,3 +57,9 @@ The sixteen cases will be labelled according to the four areas that the curve en
 ![Figure 9](figures/fig9.png)
 
 First we will deal with simple cases where no reflections are required. The region _Aii_ is entirely within the area _A'_ and the region _Eii_ is entirely wihtin the area _E'_. Therefore any cases where the curve does not pass within the interior of these areas is covered. This is true for four of the 16 cases where it enters _D'_ and _B'_, i.e. cases _F'B'AD'_, _F'B'DD'_, _C'B'AD'_ and _C'B'DD'_. Figure 9 shows the grayed areas where the curve can go in these cases
+
+##### Figure 10
+![Figure 10](figures/fig10.png)
+
+_Aii_ is also contained within _A_ allowing two more cases to be eliminated  _F'B'DA'_, _C'B'DA'_
+
