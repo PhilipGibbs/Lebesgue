@@ -79,3 +79,8 @@ In case _C'E'AA'_ the curve can be reflected about the centre line through the m
 ### Conditional reflection cases
 
 The remaining five cases are more difficult to deal with but each one has an axis of symmetry so the curve can be reflected freely through this axis. What we need to show is that if the curve enters the interior of regions _Aii_ or _Eii_ then after reflection about the axis it will no longer do so. 
+
+##### Figure 14
+![Figure 14](figures/fig14.png)
+
+Case _C'E'DA'_ is shown in figure 14. The area in which the curve lies has a reflection symmetry about the line through the midpoint of sides _FA_ and _DC_. Two extra lines are drawn parrallel to this line at a distance of one half to either side of it. Since the distance between these lines is one, a curve of constant width one can only go outside one of these lines. The region _Eii_ lies outside the line that runs near _E_. If the curve goes outside this line it can be reflected through the midline and will then not cross the line. In this way it is possible to ensure that it does not enter _Eii_. Whether reflected or not it does not enter the region _A_ which includes _Aii_. This completes the argument for this case. 
