@@ -56,6 +56,8 @@ Triangular areas _A_, _B_, _C_, _D_, _E_, _F_ near the corners of the hexagon ar
 
 The sixteen cases will be labelled according to the four areas that the curve enters the interior of e.g. _F'B'AD'_ means the case where it must enter the triangles  _F'_,_B'_, _A_, _D'_
 
+### Cases where curve cannot enter the two regions
+
 First we will deal with simple cases where no reflections are required. The region _Aii_ is entirely within the intersection of areas _A'_ and _A_ and the region _Eii_ is entirely wihtin the area _E'_. Therefore any cases where the curve does not pass within the interior of both these areas is covered. This is true for 6 of the 16 cases where it enters _D'_ or _D_ and _B'_, i.e. cases _F'B'AD'_, _F'B'DD'_, _C'B'AD'_, _C'B'DD'_, _F'B'DA'_ and _C'B'DA'_. 
 
 ##### Figure 11
@@ -63,10 +65,17 @@ First we will deal with simple cases where no reflections are required. The regi
 
 If the curve does not enter _C'_ then it cannot enter the region out side the arc centred on _L_ near _A_. Again this includes _Aii_ therefore the case _F'B'DD'_ is also eliminated (Figure 11).
 
+### Unconditional rotation cases
+
 In cases where the curve enters _D_ so that it is excluded from _A_ the curve can be rotated through angles of 120 degrees or 240 degrees without entering the removed traingles _C_ and _E_. In three further cases this can be used to reposition the curve so that it does not enter _E'_ while _A_ also remains clear. This eliminates _F'E'DA'_ (rotate 120 degrees clockwise), _C'E'DD'_ rotate (120 degrees anti-clockwise), _F'E'DD'_ (rotate 120 degrees in either direction) 
+
+### Unconditional reflection case
 
 ##### Figure 13
 ![Figure 13](figures/fig13.png)
 
 In case _C'E'AA'_ the curve can be reflected about the centre line through the midpoint of the side of the hexagon _AB_ and the midpoint of the side _ED_. This tranforms it to the case _C'B'DA'_ which is already eliminated (see figure 13)
 
+### Conditional reflection cases
+
+The remaining five cases are more difficult to deal with but each one has an axis of symmetry so the curve can be reflected freely through this axis. What we need to show is that if the curve enters the interior of regions _Aii_ or _Eii_ then after reflection about the axis it will no longer do so. 
