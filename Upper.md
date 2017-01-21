@@ -53,4 +53,7 @@ Triangular areas _A_, _B_, _C_, _D_, _E_, _F_ near the corners of the hexagon ar
 
 The sixteen cases will be labelled according to the four areas that the curve enters the interior of e.g. _AD'B'F'_ means the case where it must enter the triangles _A_, _D'_, _B'_, _F'_
 
-First we will deal with simple cases where no reflections are required. The region _Aii_ is entirely within the area _A'_ and the region _Eii_ is entirely wihtin the area _E'_. Therefore any cases where the curve does not pass within the interior of these areas is covered. This is true for four of the 16 cases where it enters _D'_ and _B'_, i.e. cases _AD'B'F'_, _DD'B'F'_, _AD'B'C'_ and _DD'B'C'_ 
+##### Figure 9
+![Figure 9](figures/fig9.png)
+
+First we will deal with simple cases where no reflections are required. The region _Aii_ is entirely within the area _A'_ and the region _Eii_ is entirely wihtin the area _E'_. Therefore any cases where the curve does not pass within the interior of these areas is covered. This is true for four of the 16 cases where it enters _D'_ and _B'_, i.e. cases _AD'B'F'_, _DD'B'F'_, _AD'B'C'_ and _DD'B'C'_. Figure 0 shows the grayed areas where the curve can go in these cases
