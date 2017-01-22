@@ -95,7 +95,7 @@ Case _C'E'AD'_ has a reflection symmetry about a line through the midpoints of s
 ##### Figure 16
 ![Figure 16](figures/fig16.png)
 
-Case _F'E'AD'_ has a reflection symmetry about a line through the corners at _F_ and _C_ 
+Case _F'E'AD'_ has a reflection symmetry about a line through the corners at _F_ and _C_. The curve is excluded from _C_ and _C'_ so it must cut the lines either side of the point _R_. By using reflection it can be made to cut to the left side of _R_. The curve must also touch the edge along _BC_ but it must do so above a point at a distance of one away from _R_ (when the slant angle is less than 10 degrees). This excludes the region _Eii_. The area _Aii_ is also excluded. 
 
 
 
