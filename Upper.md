@@ -92,5 +92,11 @@ Case _FE'AA'_ has the same axis of symmetry as _C'E'DA'_ and the same argument s
 
 Case _C'E'AD'_ has a reflection symmetry about a line through the midpoints of sides _EF_ and _CB_. A curve of constant width will touch the side _CB_ at some unique point. If it touches nearer to the corner at _C_ than the corner of _B_ then reflect the curve about the line. The curve will then touch nearer _B_ and _C_. No point on the curve can then be outside the arc of radius one centred on the midpoint of _CB_ and below the line of reflection. The region _Eii_ is enitrely outside this line. The curve also does not enter the region _Aii_ because it is exlcuded from _A'_ for this case.
 
+##### Figure 16
+![Figure 16](figures/fig16.png)
+
+Case _F'E'AD'_ has a reflection symmetry about a line through the corners at _F_ and _C_ 
+
+
 
 
