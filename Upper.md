@@ -86,3 +86,11 @@ The remaining five cases are more difficult to deal with but each one has an axi
 Case _C'E'DA'_ is shown in figure 14. The area in which the curve lies has a reflection symmetry about the line through the midpoint of sides _FA_ and _DC_. Two extra lines are drawn parrallel to this line at a distance of one half to either side of it. Since the distance between these lines is one, a curve of constant width one can only go outside one of these lines. The region _Eii_ lies outside the line that runs near _E_. If the curve goes outside this line it can be reflected through the midline and will then not cross the line. In this way it is possible to ensure that it does not enter _Eii_. Whether reflected or not it does not enter the region _A_ which includes _Aii_. This completes the argument for this case. 
 
 Case _FE'AA'_ has the same axis of symmetry as _C'E'DA'_ and the same argument shows that the curve can be reflected to ensure that it avoids the interior of _Eii_. It also avoids _Aii_ because it does not enter the interior of _C'_. 
+
+##### Figure 15
+![Figure 15](figures/fig15.png)
+
+Case _C'E'AD'_ has a reflection symmetry about a line through the midpoints of sides _EF_ and _CB_. A curve of constant width will touch the side _CB_ at some unique point. If it touches nearer to the corner at _C_ than the corner of _B_ then reflect the curve about the line. The curve will then touch nearer _B_ and _C_. No point on the curve can then be outside the arc of radius one centred on the midpoint of _CB_ and below the line of reflection. The region _Eii_ is enitrely outside this line. The curve also does not enter the region _Aii_ because it is exlcuded from _A'_ for this case.
+
+
+
