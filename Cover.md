@@ -41,13 +41,20 @@ Draw an arc of radius 1 centred on _G_ touching the edge _A_<sub>1</sub>_F_<sub>
 ##### Figure 6
 ![Figure 6](figures/fig6.png)
 
-### Removal of region _Aii_ near point _A_ 
-The slant angle we are using is _σ_ but consider the triangle at _C_ for a slant angle _s_ in the range -_σ_ ≤ s ≤ _σ_. This will have a corner on the edge DC at a point _L_(_s_) so that e.g. _L_(_σ_) = _C_<sub>2</sub>. Define a point _N_(_t_) on the edge DE at a distance _t_ from the midpoint _M_ of that edge of the hexagon for _τ_ ≤ t ≤ _τ_ such that _N_(-_τ_) = _E_<sub>3</sub>. Two circular arcs of radius one centred on _L_(_s_) and _N_(_t_) will meet at a point _X_(_s_,_t_) near the top corner _A_ of the hexagon.
+### Removal of region _Aii_ near point _A_
+A line drawn from the point _F_<sub>3</sub> to _G_ has length one. Let _θ_ (theta) be the angle that this makes to the edge _ED_ of the hexagon. Consider more generally a line of length one between a point on the side _EF_ to a point _L_(_s_) on the side _DC_ which makes an angle _s_ to the side _ED_ with _L_(-_θ_) = _G_. Define also a point _N_(_t_) on the edge DE at a distance _t_ from the midpoint _M_ of that edge of the hexagon for _τ_ ≤ t ≤ _τ_ such that _N_(_τ_) = _E_<sub>3</sub>. (see figure 7a)
 
-We can draw a straight line from the point _X_(-_σ_, -_τ_) to the point _X_(0,0). For each point _X_(_s_,_t_) on this line segment there is an image point _X_(-_s_,-_t_). These points form a curve from _X_(0,0) to _X_(_σ_, _τ_) (see figure 7 drawn with a slant angle of 15 degree for clarity) The area outside this line segement and curve is removed where it is within the mirror triangle at _A_.
+##### Figure 7a
+![Figure 7a]figures/fig7a.png)
 
-##### Figure 7
-![Figure 7](figures/fig7.png)
+Two circular arcs of radius one centred on _L_(_s_) and _N_(_t_) will meet at a point _X_(_s_,_t_) near the top corner _A_ of the hexagon. The set of points _X_(_s_,_t_) for _θ_ ≤ s ≤ _θ_ and _τ_ ≤ t ≤ _τ_ is bounded by four arcs.
+
+##### Figure 7b
+![Figure 7b]figures/fig7b.png)
+
+We can draw a straight line from the point _X_(_θ_, _τ_) to the point _X_(0,0), making it the shortest line that stays within this region. For large enough slant angles this is a straight one as shown in figure 7b, but for smaller angles it consists of an arc and a strright line. For each point _X_(_s_,_t_) on this line there is an image point _X_(-_s_,-_t_). These points form a curve from _X_(0,0) to _P_ = _X_(-_θ_, -_τ_). The combination of these points form a line from _X_(-_θ_, -_τ_) to _X_(_θ_, _τ_) which we use to cut off the region _Aii_ from the cover.
+
+
 
 
 
