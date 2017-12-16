@@ -42,7 +42,7 @@ The argument for removal of region _Ei_ is similar except that there are two arc
 
 Again the argument for removal of region _Ai_ is similar. A curve of constant width placed insode the slanted cover will touch line segments _E_<sub>3</sub>_D_<sub>1</sub> and _D_<sub>1</sub>_G_ This means that it cannot enter the region _Ai_ since all points in that region are a distance greater than one from all points on at least one of these segments.
 
-### Removal of Regions _Eii_ and _Aii_
+### Removal of Regions _Eii_, _Eiii_ and _Aii_
 
 To show that the remaining two regions _Eii_ amd _Aii_ can be removed a more complex case-by-case argument is needed. The freedom to reflect shapes will be used for the first time.
 
