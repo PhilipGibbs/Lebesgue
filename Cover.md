@@ -47,7 +47,7 @@ A line drawn from the point _F_<sub>3</sub> to _G_ has length one. Let _θ_ (the
 ##### Figure 7a
 ![Figure 7a](figures/fig7a.png)
 
-Two circular arcs of radius one centred on _L_(_s_) and _N_(_t_) will meet at a point _X_(_s_,_t_) near the top corner _A_ of the hexagon. The set of points _X_(_s_,_t_) for _θ_ ≤ s ≤ _θ_ and _τ_ ≤ t ≤ _τ_ is bounded by four arcs.
+Two circular arcs of radius one centred on _L_(_s_) and _N_(_t_) will meet at a point _X_(_s_,_t_) near the top corner _A_ of the hexagon. The set of points _X_(_s_,_t_) for -_θ_ ≤ s ≤ _θ_ and -_τ_ ≤ t ≤ _τ_ is bounded by four arcs.
 
 ##### Figure 7b
 ![Figure 7b](figures/fig7b.png)
