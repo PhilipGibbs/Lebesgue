@@ -52,7 +52,7 @@ Two circular arcs of radius one centred on _L_(_s_) and _N_(_t_) will meet at a 
 ##### Figure 7b
 ![Figure 7b](figures/fig7b.png)
 
-We can draw a straight line from the point _X_(_θ_, _τ_) to the point _X_(0,0), making it the shortest line that stays within this region. For large enough slant angles this is a straight one as shown in figure 7b, but for smaller angles it consists of an arc and a strright line. For each point _X_(_s_,_t_) on this line there is an image point _X_(-_s_,-_t_). These points form a curve from _X_(0,0) to _P_ = _X_(-_θ_, -_τ_). The combination of these points form a line from _X_(-_θ_, -_τ_) to _X_(_θ_, _τ_) which we use to cut off the region _Aii_ from the cover.
+We can draw a line from the point _X_(_θ_, _τ_) to the point _X_(0,0), making it the shortest line that stays within this region. For large enough slant angles this is a straight one as shown in figure 7b, but for smaller angles it consists of an arc and a straight line. For each point _X_(_s_,_t_) on this line there is an image point _X_(-_s_,-_t_). These points form a curve from _X_(0,0) to _P_ = _X_(-_θ_, -_τ_). The combination of these points form a line from _X_(-_θ_, -_τ_) to _X_(_θ_, _τ_) which we use to cut off the region _Aii_ from the cover.
 
 
 
