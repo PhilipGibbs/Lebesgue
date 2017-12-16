@@ -14,10 +14,10 @@ This was proven in (Baez, Bagdasaryan, Gibbs 2015)
 ##### Figure 1
 ![Figure 1](figures/fig1.png)
 
-In the definition of the proposed cover five peices were removed from the slanted cover. It is sufficient to show 
+In the definition of the proposed cover six peices were removed from the slanted cover. It is sufficient to show 
 that any curve of constant width can be placed within the cover in such a way that it avoids these five areas. 
 For the first three areas named _Ci_, _Ei_ and _Ai_ it will be shown that any curve of constant width placed inside the 
-slanted cover cannot enter these areas. For the remaining two areas _Eii_ and _Aii_ it will then be shown that a position 
+slanted cover cannot enter these areas. For the remaining three areas _Eii_, _Eiii_ and _Aii_ it will then be shown that a position 
 for any such curve can be found using reflections and rotations that ensure the curve avoids both these areas. The proof
 will then be complete.
 
