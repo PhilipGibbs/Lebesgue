@@ -42,7 +42,7 @@ Draw an arc of radius 1 centred on _G_ touching the edge _A_<sub>1</sub>_F_<sub>
 ![Figure 6](figures/fig6.png)
 
 ### Removal of region _Aii_ near point _A_
-A line drawn from the point _F_<sub>3</sub> to _G_ has length one. Let _θ_ (theta) be the angle that this makes to the edge _ED_ of the hexagon. Consider more generally a line of length one between a point on the side _EF_ to a point _L_(_s_) on the side _DC_ which makes an angle _s_ to the side _ED_ with _L_(-_θ_) = _G_. Define also a point _N_(_t_) on the edge DE at a distance _t_ from the midpoint _M_ of that edge of the hexagon for _τ_ ≤ t ≤ _τ_ such that _N_(_τ_) = _E_<sub>3</sub>. (see figure 7a)
+A line drawn from the point _F_<sub>3</sub> to _G_ has length one. Let _θ_ (theta) be the angle that this makes to the edge _ED_ of the hexagon. Consider more generally a line of length one between a point on the side _EF_ to a point _L_(_s_) on the side _DC_ which makes an angle _s_ to the side _ED_ with _L_(-_θ_) = _G_. Define also a point _N_(_t_) on the edge DE at a distance _t_ from the midpoint _M_ of that edge of the hexagon for -_τ_ ≤ t ≤ _τ_ such that _N_(_τ_) = _E_<sub>3</sub>. (see figure 7a)
 
 ##### Figure 7a
 ![Figure 7a](figures/fig7a.png)
