@@ -35,7 +35,7 @@ The straight line _TU_ can now be used to remove an extra region _TUJ_. This is 
 ##### Figure 5
 ![Figure 5](figures/fig5.png)
 
-### Removal of region _Eii_ near point _E_<sub>2</sub>
+### Removal of region _Eiii_ near point _E_<sub>2</sub>
 Another small area can be removed near _E_<sub>2</sub>. TBC
 
 ### Removal of region _Ai_ near point _A_ 
