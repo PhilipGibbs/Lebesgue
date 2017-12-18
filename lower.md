@@ -21,7 +21,7 @@ of these two shapes must be part of any cover contained in this area. Therefore 
 B, D or F. Only the light grey areas have possibilities for reduction of the area
 
 ##### Figure 17
-
+![Figure 17](figures/fig17.png)
 
 ### Critical Roueleux Pentagons
 
