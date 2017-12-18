@@ -10,7 +10,18 @@ fill the conjectured optimal cover. That is what will be attempted here. Apart f
 a lower limit, conditional or otherwise, the more immediate motivation for doing this is to uncover any further scope for
 bringing down the upper limit.
 
-##### Critical Curves
+The shape we will assume is the regular hexagon with two corners removed at C and E at a slant angle.
+
+## Critial Curves
+
+### Roueleux Triangle and circle 
+
+The roueleux triangle and the circle can only be fitted into this shape in one way as shown in figure 17. The convex hull (dark grey)
+of these two shapes must be part of any cover contained in this area. Therefore no regions can be removed near the corners
+B, D or F. Only the light grey areas have possibilities for reduction of the area
+
+##### Figure 17
+
 
 ### Critical Roueleux Pentagons
 
