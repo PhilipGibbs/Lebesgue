@@ -17,7 +17,7 @@ The shape we will assume is the regular hexagon with two corners removed at _C_ 
 
 ## Critial Curves
 
-### Roueleux Triangle and circle 
+### Roueleux Triangle and Circle 
 
 The roueleux triangle and the circle can only be fitted into this shape in one way as shown in figure 17. The convex hull (dark grey)
 of these two shapes must be part of any cover contained in this area. Therefore no regions can be removed near the corners
