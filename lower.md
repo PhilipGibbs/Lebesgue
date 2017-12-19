@@ -36,6 +36,14 @@ Curves of constant width can also have a rotation symmetry which must either be 
 
 Curves without any rotation symmetry can be fitted into a regular hexagon in _f_ = 6 _k_ ways. This must be a multiple of six because rotations through 60 degrees will provide distinct fits into the hexagon. This six-fold rotational freedom is sufficient to enable a fit inside 𝒫. Therefore the fit can only be unique for curves with no rotation symmetry if _k_ = 1 and _f_ = 6.
 
-Furthermore, once the shape is fitted into the hexagin, there are two main cases to consider according to how the curve enters the corners of the hexagon.
+Furthermore, once the shape is fitted into the hexagin, there are two main cases to consider according to how the curve enters the cornerareas of the hexagon as shown in figure 1. They may enter three consecutive corners such as _A_, _B_ and _C_. In this case there is a unique way to use the 6 fold rotations to avoid the corners _C_ and _E_ as required. If however, the curve enters three corners such as _A_, _C_ and _E_ that are not consecutive, then there are three ways to rotate avoiding _C_ and _E_ (because we assume the curve does not have rotational symmetry.) Other cases are possible where the curve touches the boundary of the corners but does not enter their interior. In these cases there are also multiple fits. In conclusion, a unique fit is possible only when it enters the interior of three conscutive corner regions.
 
+In summary, a curve of constant width with no rotational symmetry will have a unique fit inside 𝒫 iff all three of the followinf conditions are met:
+* The curve has a reflection symmetry.
+* The curve fits into the regular hexagon in exactly six ways.
+* When fitted into the hexagon it enters the interior of three of the six corner regions cut at the slant angle _σ_ such that these are at consecutive corners round the hexagon.
+
+### Roueleux Pentagons with Unique Fits
+
+Consider next these conditions applied to a Roueleux pentagon
 
