@@ -17,9 +17,9 @@ The shape we will assume is the regular hexagon with two corners removed at _C_ 
 
 ## Critial Curves
 
-### Roueleux Triangle and Circle 
+### Reuleaux Triangle and Circle 
 
-The roueleux triangle and the circle can only be fitted into 𝒫 in one way as shown in figure 17. The convex hull (dark grey)
+The Reuleaux triangle and the circle can only be fitted into 𝒫 in one way as shown in figure 17. The convex hull (dark grey)
 of these two shapes must be part of any cover contained in this area. Therefore no regions can be removed near the corners
 _B_, _D_ or _F_. Only the light grey areas have possibilities for reduction of the area. This sets a lower bound for the minimal cover within 𝒫, but it is no better than the general lower bound given by these two shapes.
 
@@ -45,7 +45,7 @@ In summary, a curve of constant width with no rotational symmetry will have a un
 
 Only the third condition depends on the slant angle _σ_.
 
-### Roueleux Pentagons with Unique Fits
+### Reuleaux Pentagons with Unique Fits
 
-Consider next these conditions applied to a Roueleux pentagon which is a closed curve composed of five arcs of radius one such that the centres of the arcs coincide with the vertices where the arcs meet. The five angles form a cyclic 5-tuple (_θ_<sub>1</sub>,_θ_<sub>2</sub>,_θ_<sub>3</sub>,_θ_<sub>4</sub>,_θ_<sub>5</sub>). Only two of these angles can be independently varied. To impose reflection symmetry the angles can be written as (_θ_<sub>1</sub>,_θ_<sub>2</sub>,_θ_<sub>3</sub>,_θ_<sub>2</sub>,_θ_<sub>1</sub>) and only one angle is independent. The full set of Roueleux pentagons with reflection symmetry forms a one parameter family interpolating between (30°,60°,0°,60°,30°) and (60°,0°,60°,0°,60°) where both ends degenerate into the Roueleux triangle.
+Consider next these conditions applied to a Reuleaux pentagon which is a closed curve composed of five arcs of radius one such that the centres of the arcs coincide with the vertices where the arcs meet. The five angles form a cyclic 5-tuple (_θ_<sub>1</sub>,_θ_<sub>2</sub>,_θ_<sub>3</sub>,_θ_<sub>4</sub>,_θ_<sub>5</sub>). Only two of these angles can be independently varied. To impose reflection symmetry the angles can be written as (_θ_<sub>1</sub>,_θ_<sub>2</sub>,_θ_<sub>3</sub>,_θ_<sub>2</sub>,_θ_<sub>1</sub>) and only one angle is independent. The full set of Reuleaux pentagons with reflection symmetry forms a one parameter family interpolating between (30°,60°,0°,60°,30°) and (60°,0°,60°,0°,60°) where both ends degenerate into the Reuleaux triangle.
 
