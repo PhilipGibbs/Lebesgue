@@ -43,7 +43,9 @@ In summary, a curve of constant width with no rotational symmetry will have a un
 * The curve fits into the regular hexagon in exactly six ways.
 * When fitted into the hexagon it enters the interior of three of the six corner regions cut at the slant angle _σ_ such that these are at consecutive corners round the hexagon.
 
+Only the third condition depends on the slant angle _σ_.
+
 ### Roueleux Pentagons with Unique Fits
 
-Consider next these conditions applied to a Roueleux pentagon
+Consider next these conditions applied to a Roueleux pentagon which is a closed curve composed of five arcs of radius one such that the centres of the arcs coincide with the vertices where the arcs meet. The five angles form a cyclic 5-tuple (_θ_<sub>1</sub>,_θ_<sub>2</sub>,_θ_<sub>3</sub>,_θ_<sub>4</sub>,_θ_<sub>5</sub>). Only two of these angles can be independently varied. To impose reflection symmetry the angles can be written as (_θ_<sub>1</sub>,_θ_<sub>2</sub>,_θ_<sub>3</sub>,_θ_<sub>2</sub>,_θ_<sub>1</sub>) and only one angle is independent. The full set of Roueleux pentagons with reflection symmetry forms a one parameter family interpolating between (30°,60°,0°,60°,30°) and (60°,0°,60°,0°,60°) where both ends degenerate into the Roueleux triangle.
 
