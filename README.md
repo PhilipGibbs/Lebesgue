@@ -37,7 +37,7 @@ Bellman's Lost in a Forest problem is closely related to Moser's Worm Problem so
 
 # Known results
 
-A shape a diameter one or less can always be contained within a closed curve of constant width one. Although this seems intuitively obvious it is not straightforward to prove (Pal 1920, Vrecica 1981). It is therefore necessary and sufficient to seek a universal cover for curves of constant width one. This observation is used in many of the arguments for an upper bound.
+A shape of diameter one or less can always be contained within a closed curve of constant width one. Although this seems intuitively obvious it is not straightforward to prove (Pal 1920, Vrecica 1981). It is therefore necessary and sufficient to seek a universal cover for curves of constant width one. This observation is used in many of the arguments for an upper bound.
 
 For the convex case the  Blaschke Selection Theorem can be used to prove that a minimal cover exists (Kelly, Weiss, 1979, Kovalev 1985)
 I.e. there is a cover which has minimum area. It is obvious that a minimum area exists but it is not trivial that this is attained. It is still unproven for the non-convex case. Even in the convex case it is not known if the minimal cover is unique up to congruence. 
@@ -71,7 +71,8 @@ Lebesgue's Universal Covering Problem is not easy and realistically it is too am
 # Progress
 
 - [Cover](Cover.md) - aims to define the best possible cover
-- [Upper](Upper.md) - proof that the defined shape is a universal cover and therefore gives an upper bound
+- [Upper](Upper.md) - aims to prove that the defined shape is a universal cover and therefore gives an upper bound
+- [Lower](Upper.md) - aims to prove that the defined shape is a lower bound within the slanted Pal cover
 
 # References
 see [References](References.md)
