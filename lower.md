@@ -67,3 +67,11 @@ This curve therefore shows that the point _C_<sub>3</sub> cannot be removed from
 
 ##### Figure 19
 ![Figure 19](figures/fig19.png)
+
+Another critical septagon is shown in Figure 20. This is aligned so that its axis of symmetry is on the line through the vertices at _C_ and _F_. One vertex is on the point where the axis enters the region _F_. The Reuleaux septagon is also constructed so that it has a vertex at the point _B_<sub>3</sub>. These cirstraints are sufficient to determine its shape. For slant angles between a very small non-zero value and 10 degrees this septagon avoids the regions _C_ and _E_ as required (for greater than 10 degrees it enters the interior of _C_) With suitable small perturbations its fit is unique. The shape therefore provides a tight constraint on the area that can be removed near _E_ and in fact reduces it to the known region _Eii_ that we know can be removed.
+
+(note that this curve rotated to align the axis vertically can be used as an alternative to Figure 19) 
+
+##### Figure 20
+![Figure 20](figures/fig20.png)
+
