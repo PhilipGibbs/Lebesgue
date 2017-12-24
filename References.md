@@ -24,7 +24,7 @@ A minimal cover
 A demonstration that Sprague's cover is not minimal because two small corners can be removed.
 
 ### Paul J. Kelly, Max L. Weiss (1979). "Geometry and Convexity: A Study in Mathematical Methods." Wiley. pp. Section 6.4
-On the existance of a solution using the Blaschke selection theorem
+On the existance of a solution in the convex case, using the Blaschke selection theorem
 
 ### G.F.D. Duff (1980), "A smaller universal cover for sets of unit diameter", C. R. Math. Acad. Sci. 2 (1980), 37–42
 A smaller universal cover was found for the case where the cover is not required to be convex
@@ -35,7 +35,7 @@ A proof that every shape of diameter one can be contained in a curve of constant
 ### H.C. Hansen, “Towards the minimal universal cover”, Normat 29 (1981) 115-119, 148
 
 ### M.D. Kovalev (1985), "A Minimal Lebesgue Covering Exists", Mathematical notes of the Academy of Sciences of the USSR, Volume 40, Issue 3 (1986) pp 736–739
-For the case of the convex cover it is shown that a minimal cover exists. See also Weiss-Kelly (1979)
+For the case of the non-convex cover it is shown that a minimal cover exists. See also Weiss-Kelly (1979)
 
 ### K Bezdek, R Connelly "Covering curves by translates of a convex set" American Mathematical Monthly, 1989
 On the translation cover problem
