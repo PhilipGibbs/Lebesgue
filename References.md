@@ -29,7 +29,7 @@ On the existance of a solution in the convex case, using the Blaschke selection 
 ### G.F.D. Duff (1980), "A smaller universal cover for sets of unit diameter", C. R. Math. Acad. Sci. 2 (1980), 37–42
 A smaller universal cover was found for the case where the cover is not required to be convex
 
-### S. Vrecica (1981), "A note on curves of constant width", Publications de L’Institut Math´ematique 29 (1981), 289–291
+### S. Vrecica (1981), "A note on curves/sets of constant width", Publications de L’Institut Math´ematique 29 (1981), 289–291
 A proof that every shape of diameter one can be contained in a curve of constant width one. This was also established by Pal but paper/translation is not available.
 
 ### H.C. Hansen, “Towards the minimal universal cover”, Normat 29 (1981) 115-119, 148
