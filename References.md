@@ -15,7 +15,7 @@ He also set a lower bound using the combination of a circle and triangle at 0.82
 Sprague showed that a region of Pal's cover can be removed reducing the area to 0.844137708436 (He did not compute the area)
 
 ### Herbert Meschkowski, Ungelöste und unlösbare Probleme der Geometrie, Braunschweig 1960, (translated as Unsolved and unsolvable problems in geometry, Oliver and Boyd 1966, translated by Jane A.C. Burlak)
-Computed the area of Sprague's cover and claimed that Sprague beieved it to be minimal in the sense that no further area could be removed. This book and its translation are given credit for popularising the problem. 
+Computed the area of Sprague's cover and claimed that Sprague believed it to be minimal in the sense that no further area could be removed. This book and its translation are given credit for popularising the problem. 
 
 ### H. G. Eggleston Minimal universal covers in E^n, Isreal J. of Math. 1963
 A minimal cover
