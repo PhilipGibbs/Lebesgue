@@ -1,7 +1,7 @@
 # References related to Lebesgue's Universal Covering Problem
 in chronolohical order
 
-### H.W.E. Jung J. "Über die kleinste Kugel die eine räumliche Figur einschliesst" Reine Agnew Math 123 (1901) 241-257
+### H.W.E. Jung, "Über die kleinste Kugel die eine räumliche Figur einschliesst" Reine Agnew Math 123 (1901) 241-257
 A circle of radius 1/sqrt(3) is a universal cover of area 1.047
 
 ### Henri Lebesgue (1914), *Letter to Julius Pal*, described in (Pal 1920)
