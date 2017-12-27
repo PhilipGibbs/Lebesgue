@@ -44,7 +44,7 @@ On the translation cover problem
 The upper bound was reduced by 4.10^-11
 
 ### György Elekes, “Generalized Breadths, Circular Cantor Sets, and the Least Area UCC”, Discrete & Computational Geometry (1994), Volume 12, Issue 1, pp 439-449
-A lower bound using polygons with number of sides in powers of three. 
+A lower bound of 0.8271 using polygons with number of sides in powers of three. 
 
 ### Peter Brass, Mehrbod Sharifi, (2005) "A Lower Bound for Lebesgues' Universal Covering Problem", Int. J. Comput. Geom. Appl. 15, 537
 A triangle, circle and pentagon are combined in an optimal configuration to set a lower bound of 0.832 
